@@ -1,0 +1,2 @@
+{:require  [duke.app]
+ :init-fns [duke.app/init]}
